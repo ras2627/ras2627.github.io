@@ -1,0 +1,38 @@
+[
+	{
+		"useBackgroundColour" : "true",
+		"backgroundColour" : "10,10,10",
+		"useBackgroundImage" : "true",
+		"backgroundImagePath" : "images/backgroundImg7.jpg",
+		"useTextColour" : "false",
+		"textColour" : "0,204,0",
+		"useBoldText" : "false",
+		"serverTitle" : "ClearWater RP",
+		"playAudioInBackground" : "true",
+		"audioPath" : "audio/gtavthemesong.ogg",
+		"audioVolume" : "0.06"
+	},
+	{
+		"rule1" : "Do not RDM or VDM",
+		"rule2" : "A microphone is a requirement",
+		"rule3" : "Do not abuse/exploit bugs",
+		"rule4" : "Do not use cheats",
+		"rule5" : "No racism",
+		"rule6" : "Do not harass others",
+		"rule7" : "Use common sense"
+	},
+	{
+		"servers1" : "HELLO",
+		"servers2" : "Teamspeak: vs32.tserverhq.com:7004",
+		"servers3" : "Discord: https://discord.gg/tsRWcrU",
+		"servers4" : "Do Not Raid LSPD Stations",
+		"servers5" : "Hostages And Snipers Need Announcing",
+		"servers6" : "No Stealing Military Vehicles",
+		"servers7" : "Always Value Your Lifes"
+	},
+	{
+		"content1" : "Interactive Jail and Court System",
+		"content2" : "Custom Vehicles and Weapons",
+		"content3" : "Active Admins" 
+	}
+]
